@@ -19,6 +19,7 @@ pip install -r requirements.txt
 
 ## Setting up Development Environment for the Braille Display in Raspberry Pi
 
+Developed with a Raspberry Pi 4. But any model with PWM output should work.
 
 ```bash
 sudo apt-get install python-smbus
@@ -36,12 +37,4 @@ pip install adafruit-circuitpython-servokit
 pip install pyrebase4
 ```
 
-## FAQ
 
-#### What are the advantages of using this system?
-
-It significantly speeds up the process of renting,billing and anlysing business. It is also much more convenient for both the employess and the customers.
-
-#### How much experience is required to operate this system?
-
-Because of the simplicity and the user friendly UI of the software anyone can use it easily.
